@@ -16,7 +16,7 @@
     --neoncolor: #F5DF50;
     --hovercolor: #FFcf33;
     --shadowcolor: #F7DA08; /* animation */
-    --greencolor: #4CAF50;  /* #16b746; code #53fc5e */
+    --greencolor: #8be9fd;  /* #16b746; code #53fc5e */
     --extracolor: #f99509;  /*#ff60ca; */
     --extralightcolor: #E49200; /*#7f236e;*/
   }
@@ -574,4 +574,3 @@ article time {
   }
 
 }
-
