@@ -95,7 +95,7 @@
 	  <h2>🔥 Personal Links </h2> 
 	  <div id="links">
 	    <ul>
-	      <li>Mail: <a href="mailto:vaibhavjoshi22@gmail.com" target="_blank" rel="noopener noreferrer">vaibhavjoshi22 </a> </li>
+	      <li>Mail: <a href="mailto:vaibhav22042003@gmail.com" target="_blank" rel="noopener noreferrer">vaibhavjoshi22 </a> </li>
 	      <li>Telegram: <a href="https://telegram.me/vaibhavjoshi22" target="_blank" rel="noopener noreferrer">chat</a> </li>
 	      <li>Gits: <a href="https://github.com/vaibhavjoshi22" target="_blank" rel="noopener noreferrer">{code}</a></li>
         <li>Insta: <a href="https://instagram.com/vaibhav.joshi22?igshid=YmMyMTA2M2Y=" target="_blank" rel="noopener noreferrer">pic dump</a></li>
